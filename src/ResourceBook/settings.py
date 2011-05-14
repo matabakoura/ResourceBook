@@ -1,5 +1,6 @@
 # Django settings for ResourceBook project.
 #Ca fonctionne bande de con
+# c'est bon les filles.
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 ADMINS = (
